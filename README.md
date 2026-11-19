@@ -1,1 +1,1 @@
-# Airus-smp
+# Airus SMP
